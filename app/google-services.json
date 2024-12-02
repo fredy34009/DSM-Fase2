@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050488249899",
+    "project_id": "eventos-23ddd",
+    "storage_bucket": "eventos-23ddd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050488249899:android:c9e8ffec85254a0b34146e",
+        "android_client_info": {
+          "package_name": "com.dsm.eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050488249899-rmgdq6eq81s0pjc90mpl3haq37i5t5ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsm.eventos",
+            "certificate_hash": "5279ff01825873035170b2666c4847f238020a81"
+          }
+        },
+        {
+          "client_id": "1050488249899-aupd5eva6pudoaq3cu6tq9r766egognc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP19lTimvaTk-83cwUcZmP-ZF-0B8EvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050488249899-aupd5eva6pudoaq3cu6tq9r766egognc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
