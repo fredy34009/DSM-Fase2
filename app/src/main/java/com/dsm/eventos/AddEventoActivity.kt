@@ -77,6 +77,7 @@ class AddEventoActivity: AppCompatActivity()  {
             {
                 Toast.makeText(baseContext, "Error llena todos los campos", Toast.LENGTH_SHORT).show()
             }else {
+                db = FirebaseFirestore.getInstance()
                 val event = hashMapOf(
                     "nombre" to nombre.text.toString(),
                     "descripcion" to descripcion.text.toString(),
